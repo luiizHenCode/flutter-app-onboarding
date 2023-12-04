@@ -12,7 +12,7 @@ List<WelcomeModel> pages = [
     title: 'Explore new places',
     description:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod, nisl eget.',
-    image: 'assets/images/welcome_page_2.avif',
+    image: 'assets/images/welcome_page_2.jpeg',
     buttonLabel: 'Next',
   ),
   WelcomeModel(
